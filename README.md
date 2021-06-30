@@ -1,7 +1,6 @@
 # Typescript learning
 
-reference: [TypeScript - Crash course in 70 minutes [2020]](https://www.youtube.com/watch?v=nyIpDs2DJ_c)  
-by [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+reference: [TypeScript - Crash course in 70 minutes [2020]](https://www.youtube.com/watch?v=nyIpDs2DJ_c) by [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 
 Enviroment requiremens
 
