@@ -25,17 +25,17 @@ variable = '42'
 
 // FUNCTION
 function sayMyName(name: string): void {
-  console.log(name)
+    console.log(name)
 }
 sayMyName('devandtravel')
 
 //NEWER
 function trowError(message: string): never {
-  throw new Error(message)
+    throw new Error(message)
 }
 // or
 function infinite(): never {
-  while (true) {}
+    while (true) {}
 }
 
 // TYPE
